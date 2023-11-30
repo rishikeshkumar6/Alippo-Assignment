@@ -29,3 +29,7 @@ This React project, named "crud-operation," allows users to perform CRUD (Create
 1. **Installation:**
    ```bash
    npm install
+
+2. **Run the App:**
+   ```bash
+   npm start
