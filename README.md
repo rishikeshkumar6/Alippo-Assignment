@@ -33,3 +33,7 @@ This React project, named "crud-operation," allows users to perform CRUD (Create
 2. **Run the App:**
    ```bash
    npm start
+
+3. **Live:**
+   ```bash
+   https://alippo-task.netlify.app/   
